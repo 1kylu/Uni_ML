@@ -1,4 +1,4 @@
-age,gender,tot_bilirubin,direct_bilirubin,tot_proteins,albumin,ag_ratio,sgpt,sgot,alkphos,is_patient
+age,gender,tot_bilirubin,direct_bilirubin,alkphos,sgpt,sgot,tot_proteins,albumin,ag_ratio,is_patient
 65,Female,0.7,0.1,187,16,18,6.8,3.3,0.9,1
 62,Male,10.9,5.5,699,64,100,7.5,3.2,0.74,1
 62,Male,7.3,4.1,490,60,68,7,3.3,0.89,1
