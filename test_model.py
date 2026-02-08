@@ -42,7 +42,3 @@ class TestLiverModel(unittest.TestCase):
             self.assertAlmostEqual(np.sum(probs[0]), 1.0, places=5)
             # Sprawdzamy, czy wartości są nieujemne
             self.assertTrue(np.all(probs >= 0))
-
-
-if __name__ == '__main__':
-    unittest.main()
