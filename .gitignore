@@ -1,0 +1,17 @@
+# Virtual environments
+Lib/
+Scripts/
+venv/
+ENV/
+
+# Jupyter / Lab
+share/
+etc/jupyter/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
